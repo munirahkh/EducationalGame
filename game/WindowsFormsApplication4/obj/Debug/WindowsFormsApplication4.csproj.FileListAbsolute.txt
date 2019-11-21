@@ -1,0 +1,278 @@
+c:\users\user\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\hanomohamad\Desktop\project1\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\hanomohamad\Desktop\project1\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\hanomohamad\Desktop\project1\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\hanomohamad\Desktop\project1\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\hanomohamad\Desktop\project1\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\hanomohamad\Desktop\project1\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\hanomohamad\Desktop\project1\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\hanomohamad\Desktop\project1\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\hanomohamad\Desktop\project1\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\hanomohamad\Desktop\project1\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\hanomohamad\Desktop\project1\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form5.resources
+C:\Users\hanomohamad\Desktop\project1\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\hanomohamad\Desktop\project1\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\hanomohamad\Desktop\project1\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form6.resources
+C:\Users\hanomohamad\Desktop\project1\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form7.resources
+C:\Users\hanomohamad\Desktop\project1\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form8.resources
+C:\Users\user\Downloads\v\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\user\Downloads\v\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\user\Downloads\v\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\user\Downloads\v\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\user\Downloads\v\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\user\Downloads\v\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\v\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\user\Downloads\v\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\user\Downloads\v\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\user\Downloads\v\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\user\Downloads\v\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form5.resources
+C:\Users\user\Downloads\v\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form6.resources
+C:\Users\user\Downloads\v\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form7.resources
+C:\Users\user\Downloads\v\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form8.resources
+C:\Users\user\Downloads\v\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\user\Downloads\v\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\formsHCI\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\user\Downloads\formsHCI\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\user\Downloads\formsHCI\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\user\Downloads\formsHCI\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\user\Downloads\formsHCI\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\user\Downloads\formsHCI\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\user\Downloads\formsHCI\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\user\Downloads\formsHCI\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\user\Downloads\formsHCI\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\user\Downloads\formsHCI\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form5.resources
+C:\Users\user\Downloads\formsHCI\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form6.resources
+C:\Users\user\Downloads\formsHCI\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form7.resources
+C:\Users\user\Downloads\formsHCI\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form8.resources
+C:\Users\user\Downloads\formsHCI\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\user\Downloads\formsHCI\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\formsHCI\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\SONY\Downloads\1-8\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\SONY\Downloads\1-8\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\SONY\Downloads\1-8\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\SONY\Downloads\1-8\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\SONY\Downloads\1-8\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\SONY\Downloads\1-8\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\SONY\Downloads\1-8\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\SONY\Downloads\1-8\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\SONY\Downloads\1-8\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\SONY\Downloads\1-8\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\SONY\Downloads\1-8\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form5.resources
+C:\Users\SONY\Downloads\1-8\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form6.resources
+C:\Users\SONY\Downloads\1-8\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form7.resources
+C:\Users\SONY\Downloads\1-8\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form8.resources
+C:\Users\SONY\Downloads\1-8\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\SONY\Downloads\1-8\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\1-8\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\user\Downloads\1-8\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\user\Downloads\1-8\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\user\Downloads\1-8\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\1-8\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\user\Downloads\1-8\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\user\Downloads\1-8\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\user\Downloads\1-8\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\user\Downloads\1-8\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form5.resources
+C:\Users\user\Downloads\1-8\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form6.resources
+C:\Users\user\Downloads\1-8\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form7.resources
+C:\Users\user\Downloads\1-8\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form8.resources
+C:\Users\user\Downloads\1-8\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\user\Downloads\1-8\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\1-8\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\user\Downloads\1-8\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\user\Downloads\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\user\Downloads\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\user\Downloads\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\user\Downloads\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\user\Downloads\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\user\Downloads\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\user\Downloads\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\user\Downloads\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\user\Downloads\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\user\Downloads\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form5.resources
+C:\Users\user\Downloads\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form6.resources
+C:\Users\user\Downloads\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form7.resources
+C:\Users\user\Downloads\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form8.resources
+C:\Users\user\Downloads\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\user\Downloads\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\SONY\Downloads\HCI project\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\SONY\Downloads\HCI project\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\SONY\Downloads\HCI project\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\SONY\Downloads\HCI project\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\SONY\Downloads\HCI project\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\SONY\Downloads\HCI project\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\SONY\Downloads\HCI project\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\SONY\Downloads\HCI project\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\SONY\Downloads\HCI project\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\SONY\Downloads\HCI project\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\SONY\Downloads\HCI project\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form5.resources
+C:\Users\SONY\Downloads\HCI project\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form6.resources
+C:\Users\SONY\Downloads\HCI project\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form7.resources
+C:\Users\SONY\Downloads\HCI project\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form8.resources
+C:\Users\SONY\Downloads\HCI project\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\SONY\Downloads\HCI project\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\Visual\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\user\Downloads\Visual\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\user\Downloads\Visual\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\user\Downloads\Visual\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\user\Downloads\Visual\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\user\Downloads\Visual\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Downloads\Visual\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Downloads\Visual\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\Visual\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Downloads\Visual\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Downloads\Visual\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.ResolveComReference.cache
+C:\Users\user\Downloads\Visual\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\user\Downloads\Visual\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\user\Downloads\Visual\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\user\Downloads\Visual\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\user\Downloads\Visual\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form5.resources
+C:\Users\user\Downloads\Visual\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form6.resources
+C:\Users\user\Downloads\Visual\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form7.resources
+C:\Users\user\Downloads\Visual\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form8.resources
+C:\Users\user\Downloads\Visual\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\user\Downloads\Visual\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\SONY\Downloads\Visualafterchange\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\SONY\Downloads\Visualafterchange\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\Interop.WMPLib.dll
+C:\Users\SONY\Downloads\Visualafterchange\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\SONY\Downloads\Visualafterchange\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.ResolveComReference.cache
+C:\Users\SONY\Downloads\Visualafterchange\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\SONY\Downloads\Visualafterchange\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\SONY\Downloads\Visualafterchange\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\SONY\Downloads\Visualafterchange\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\SONY\Downloads\Visualafterchange\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Interop.WMPLib.dll
+C:\Users\SONY\Downloads\Visualafterchange\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\SONY\Downloads\Visualafterchange\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\SONY\Downloads\Visualafterchange\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\SONY\Downloads\Visualafterchange\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\SONY\Downloads\Visualafterchange\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\SONY\Downloads\Visualafterchange\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\SONY\Downloads\Visualafterchange\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form5.resources
+C:\Users\SONY\Downloads\Visualafterchange\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form6.resources
+C:\Users\SONY\Downloads\Visualafterchange\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form7.resources
+C:\Users\SONY\Downloads\Visualafterchange\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form8.resources
+C:\Users\SONY\Downloads\Visualafterchange\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\SONY\Downloads\Visualafterchange\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\SONY\Downloads\Final\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\SONY\Downloads\Final\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\Interop.WMPLib.dll
+C:\Users\SONY\Downloads\Final\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\SONY\Downloads\Final\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.ResolveComReference.cache
+C:\Users\SONY\Downloads\Final\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\SONY\Downloads\Final\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\SONY\Downloads\Final\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\SONY\Downloads\Final\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\SONY\Downloads\Final\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Interop.WMPLib.dll
+C:\Users\SONY\Downloads\Final\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\SONY\Downloads\Final\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\SONY\Downloads\Final\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\SONY\Downloads\Final\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\SONY\Downloads\Final\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\SONY\Downloads\Final\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\SONY\Downloads\Final\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form5.resources
+C:\Users\SONY\Downloads\Final\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form6.resources
+C:\Users\SONY\Downloads\Final\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form7.resources
+C:\Users\SONY\Downloads\Final\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form8.resources
+C:\Users\SONY\Downloads\Final\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\SONY\Downloads\Final\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\user\Downloads\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Downloads\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Downloads\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.ResolveComReference.cache
+C:\Users\user\Downloads\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\user\Downloads\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\user\Downloads\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\user\Downloads\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\user\Downloads\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Downloads\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Downloads\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\user\Downloads\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\user\Downloads\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\user\Downloads\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\user\Downloads\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form5.resources
+C:\Users\user\Downloads\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form6.resources
+C:\Users\user\Downloads\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form7.resources
+C:\Users\user\Downloads\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form8.resources
+C:\Users\user\Downloads\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\user\Downloads\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\SONY\Downloads\finallllll\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\SONY\Downloads\finallllll\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\Interop.WMPLib.dll
+C:\Users\SONY\Downloads\finallllll\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\SONY\Downloads\finallllll\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.ResolveComReference.cache
+C:\Users\SONY\Downloads\finallllll\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\SONY\Downloads\finallllll\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\SONY\Downloads\finallllll\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\SONY\Downloads\finallllll\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\SONY\Downloads\finallllll\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\SONY\Downloads\finallllll\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\SONY\Downloads\finallllll\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\SONY\Downloads\finallllll\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form5.resources
+C:\Users\SONY\Downloads\finallllll\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form6.resources
+C:\Users\SONY\Downloads\finallllll\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form7.resources
+C:\Users\SONY\Downloads\finallllll\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form8.resources
+C:\Users\SONY\Downloads\finallllll\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\SONY\Downloads\finallllll\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\SONY\Downloads\finallllll\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\SONY\Downloads\finallllll\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\SONY\Downloads\finallllll\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Interop.WMPLib.dll
+C:\Users\SONY\Downloads\finallllll\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\SONY\Downloads\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\SONY\Downloads\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\Interop.WMPLib.dll
+C:\Users\SONY\Downloads\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\SONY\Downloads\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.ResolveComReference.cache
+C:\Users\SONY\Downloads\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\SONY\Downloads\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\user\Downloads\fanl\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\user\Downloads\fanl\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Downloads\fanl\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Downloads\fanl\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.ResolveComReference.cache
+C:\Users\user\Downloads\fanl\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\user\Downloads\fanl\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\user\Downloads\fanl\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\user\Downloads\fanl\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\user\Downloads\fanl\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Downloads\fanl\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Downloads\fanl\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\fanl\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\user\Downloads\fanl\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\user\Downloads\fanl\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\user\Downloads\fanl\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\user\Downloads\fanl\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form5.resources
+C:\Users\user\Downloads\fanl\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form6.resources
+C:\Users\user\Downloads\fanl\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form7.resources
+C:\Users\user\Downloads\fanl\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form8.resources
+C:\Users\user\Downloads\fanl\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\user\Downloads\fanl\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\fanl2\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\user\Downloads\fanl2\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Downloads\fanl2\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Downloads\fanl2\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.ResolveComReference.cache
+C:\Users\user\Downloads\fanl2\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\user\Downloads\fanl2\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\HP\Downloads\fanl2\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\HP\Downloads\fanl2\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\HP\Downloads\fanl2\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\HP\Downloads\fanl2\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Interop.WMPLib.dll
+C:\Users\HP\Downloads\fanl2\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Downloads\fanl2\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\fanl2\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\Interop.WMPLib.dll
+C:\Users\HP\Downloads\fanl2\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Downloads\fanl2\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.ResolveComReference.cache
+C:\Users\HP\Downloads\fanl2\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\HP\Downloads\fanl2\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form7.resources
+C:\Users\HP\Downloads\fanl2\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\HP\Downloads\fanl2\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\fanl2\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\fanl2\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\HP\Downloads\fanl2\fanl\finallllll\finalllll\finalllll\Visualafterchange\Visual\HCI project\1-8\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
